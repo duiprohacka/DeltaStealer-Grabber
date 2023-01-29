@@ -32,7 +32,7 @@
             <b> - Accounts</b>
             <b> > <u>Soon</u></b>
               <b> - RDP PROTOCOL</b>
-               <b> - View info in Dashboard</b>
+              <b> - View info in Dashboard</b>
     </pre>
     </br>
 <ul>
