@@ -1,5 +1,5 @@
 <center>
-<h1 align="center"><img src="https://i.ibb.co/d5FySDx/gun.gif" width=45 height=45/> <u><a href="https://discord.gg/deltastealer">Deltastealer Discord</a></u></h1>
+<h1 align="center"><img src="https://i.ibb.co/d5FySDx/gun.gif" width=45 height=45/> <u><a href="https://discord.gg/fbi">Deltastealer Discord</a></u></h1>
 
 <h2><img src="https://i.ibb.co/G2FzKf5/planet.gif" width=25>  Features</h2>
 <ul>
