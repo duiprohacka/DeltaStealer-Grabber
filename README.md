@@ -15,7 +15,7 @@
         <br/>
     <b> > <u>Injector Features</u></b>
         <b> - <u>Steam Stealer</u></b>
-        <b> - <u>Wallet Stealer (10)</u><b>
+        <b> - <u>Wallet Stealer (+10)</u><b>
         <b> - <u>Token Grabber</u></b>
         <b> - <u>System Information</u></b>
         <b> - <u>EXE Customizer</u></b><br>
