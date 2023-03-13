@@ -58,9 +58,14 @@
 </center>
 
 <h2><img src="https://i.ibb.co/G2FzKf5/planet.gif" width=25>  Screenshots</h2>
-![](https://media.discordapp.net/attachments/1084667634307575833/1084667686266609674/delta2.png)
-![](https://media.discordapp.net/attachments/1084667634307575833/1084667686765727764/delta.png)
-![](https://media.discordapp.net/attachments/1084667634307575833/1084667687269048361/605cbbff-c8db-463a-9b63-e7910ae2ea00.png)
-![](https://media.discordapp.net/attachments/1084667634307575833/1084667711793156207/image.png)
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://media.discordapp.net/attachments/1084667634307575833/1084667686765727764/delta.png"></img>
+
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://media.discordapp.net/attachments/1084667634307575833/1084669526655914054/image.png"></img>
+
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://media.discordapp.net/attachments/1084667634307575833/1084667687269048361/605cbbff-c8db-463a-9b63-e7910ae2ea00.png"></img>
+
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://media.discordapp.net/attachments/1084667634307575833/1084667685830410301/delta3.png"></img>
+
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://media.discordapp.net/attachments/1084667634307575833/1084667711793156207/image.png"></img>
 
 
