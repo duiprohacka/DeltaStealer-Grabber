@@ -19,29 +19,34 @@
         <b> - <u>Token Grabber</u></b>
         <b> - <u>System Information</u></b>
         <b> - <u>EXE Customizer</u></b><br>
+        <br/>
         <b> > <u>Browser Stealer</u></b>
             <b> - Passwords Stealer</b>
             <b> - Cookie Stealer</b>
             <b> - Credit Cards Stealer</b>
             <b> - History Stealer</b>
+            <br/>
         <b> > <u>VPN Stealer</u></b>
             <b> - ProtonVPN </b>
             <b> - OpenVPN</b>
+            <br/>
         <b> > <u>Minecraft Stealer</u></b>
             <b> - Profiles</b>
             <b> - Accounts</b>
+            <br/>
             <b> > <u>Soon</u></b>
               <b> - RDP PROTOCOL</b>
               <b> - View info in Dashboard</b>
               <b> - Browsers injection</b>
+              <br/>
        <b> > <u>New Features</u></b>
-         <b> - Discord Bot Builder ( With ICO )</b>
-           <b> -  Discord Bot Builder ( With ICO )</b>
-             <b> -   A lot of helpfull commands</b>
-               <b> -  Bulletproof API & CDN </b>
-                 <b> -  Rust Malware & Electron Dropper </b>
-                    <b> - NSI Setup & Fake Login Client</b>
-        <b> - ASAR File Discord Injection</b>
+       <b> - Discord Bot Builder ( With ICO )</b>
+       <b> -  Discord Bot Builder ( With ICO )</b>
+       <b> -   A lot of helpfull commands</b>
+          <b> -  Bulletproof API & CDN </b>
+          <b> -  Rust Malware & Electron Dropper </b>
+          <b> - NSI Setup & Fake Login Client</b>
+     <b> - ASAR File Discord Injection</b>
      <b> -  Nitro Badge Scrapper with Months</b>
      <b> - Cryptocurrency St3al3r ( Wallets )</b>
      <b> - Steam Session St3al3r</b>
