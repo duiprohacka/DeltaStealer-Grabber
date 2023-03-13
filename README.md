@@ -62,5 +62,5 @@
 ![](https://media.discordapp.net/attachments/1084667634307575833/1084667686765727764/delta.png)
 ![](https://media.discordapp.net/attachments/1084667634307575833/1084667687269048361/605cbbff-c8db-463a-9b63-e7910ae2ea00.png)
 ![](https://media.discordapp.net/attachments/1084667634307575833/1084667711793156207/image.png)
-</center>
+
 
