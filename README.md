@@ -56,3 +56,11 @@
     </br>
 <ul>
 </center>
+
+<h2><img src="https://i.ibb.co/G2FzKf5/planet.gif" width=25>  Screenshots</h2>
+![](https://media.discordapp.net/attachments/1084667634307575833/1084667686266609674/delta2.png)
+![](https://media.discordapp.net/attachments/1084667634307575833/1084667686765727764/delta.png)
+![](https://media.discordapp.net/attachments/1084667634307575833/1084667687269048361/605cbbff-c8db-463a-9b63-e7910ae2ea00.png)
+![](https://media.discordapp.net/attachments/1084667634307575833/1084667711793156207/image.png)
+</center>
+
