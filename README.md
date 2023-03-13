@@ -31,7 +31,7 @@
             <b> 💎 - OpenVPN</b>
             <br/>
         <b> > <u>Minecraft Stealer</u></b>
-            <b> 🚀 - rofiles</b>
+            <b> 🚀 - Profiles</b>
             <b> 🚀 - Accounts</b>
             <br/>
             <b> > <u>Soon</u></b>
