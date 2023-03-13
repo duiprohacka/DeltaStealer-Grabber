@@ -58,7 +58,7 @@
 </center>
 
 <h2><img src="https://i.ibb.co/G2FzKf5/planet.gif" width=25>  Screenshots</h2>
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://media.discordapp.net/attachments/1084667634307575833/1084674354643746836/image.png?width=468&height=593"></img>
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://media.discordapp.net/attachments/1084667634307575833/1084674895734120500/image.png?width=468&height=593"></img>
 
 <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://media.discordapp.net/attachments/1084667634307575833/1084669526655914054/image.png"></img>
 
