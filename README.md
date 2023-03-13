@@ -41,7 +41,6 @@
               <br/>
        <b> > <u>New Features</u></b>
        <b> 🚀 - Discord Bot Builder ( With ICO )</b>
-       <b> 🚀 - Discord Bot Builder ( With ICO )</b>
        <b> 🚀 - A lot of helpfull commands</b>
           <b> 🚀 - Bulletproof API & CDN </b>
           <b> 🚀 - Rust Malware & Electron Dropper </b>
